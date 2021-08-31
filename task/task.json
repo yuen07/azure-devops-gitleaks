@@ -1,5 +1,5 @@
 {
-    "id": "11bd67d8-bfe7-497b-967d-e800eb673119",
+    "id": "76848b33-9138-4124-b4dd-f4f1c7ee9ae7",
     "name": "Gitleaks extension",
     "friendlyName": "Gitleaks scan extension",
     "description": "Scan git repos (or files) for secrets using regex and entropy. This is a fork from Joost Voskuil https://github.com/JoostVoskuil/azure-devops-gitleaks",
