@@ -2,7 +2,7 @@
     "manifestVersion": 1,
     "id": "Gitleaks",
     "name": "Gitleaks",
-    "publisher": "foxholenl",
+    "publisher": "yching007",
     "description": "This extension provides scanning your repo's for leaks with gitleaks. Alternative to Credscan.",
     "version": "0.0.11",
     "public": false,
@@ -26,7 +26,7 @@
     },
     "repository": {
         "type": "git",
-        "uri": "https://github.com/JoostVoskuil/azure-devops-gitleaks"
+        "uri": "https://github.com/yuen07/azure-devops-gitleaks"
     },
     "categories": [
         "Azure Pipelines"
@@ -38,7 +38,7 @@
     ],
     "contributions": [
         {
-            "id": "foxholenl-gitleaks",
+            "id": "yching007-gitleaks",
             "type": "ms.vss-distributed-task.task",
             "targets": [
                 "ms.vss-distributed-task.tasks"
