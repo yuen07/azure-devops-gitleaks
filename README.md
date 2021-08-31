@@ -1,4 +1,4 @@
-# Gitleaks
+# Gitleaks - Extension
 
 Thanks to [Joost Voskuil](https://github.com/JoostVoskuil/azure-devops-gitleaks) for creating and the Azure marketplace plugin.
 
