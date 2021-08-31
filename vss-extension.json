@@ -4,7 +4,7 @@
     "name": "Gitleaks Advance Options",
     "publisher": "yching007",
     "description": "This extension provides scanning your repo's for leaks with gitleaks. Alternative to Credscan. This is a fork of the project from JoostVoskuil/azure-devops-gitleaks and gives further options",
-    "version": "0.0.2",
+    "version": "0.0.3",
     "public": true,
     "targets": [
         {
