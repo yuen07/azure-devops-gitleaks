@@ -1,5 +1,7 @@
 # Gitleaks
 
+Thanks to [Joost Voskuil/](https://github.com/JoostVoskuil/azure-devops-gitleaks) for creating and the Azure marketplace plugin.
+
 Thanks to [Zachary Rice](https://github.com/zricethezav) for creating and maintaining gitleaks.
 
 Thanks to [Jesse Houwing](https://github.com/jessehouwing) for providing a gitleaks config that has most of Microsoft's deprecated credscan rules ported to it.
@@ -26,7 +28,7 @@ See [Jesse Houwing's github repo](https://github.com/jessehouwing/gitleaks-azure
 
 The configuration file isn't as good as credscan was before, it had a bunch of helper functions to rule out false positives that aren't (yet) possible with gitleaks.
 
-## Arguments
+## Arguments {WIP} Im adding more arguments to enable a more broader usage of gitleaks
 
 | Name | Description |
 |-|-|
