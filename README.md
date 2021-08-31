@@ -1,6 +1,6 @@
 # Gitleaks
 
-Thanks to [Joost Voskuil/](https://github.com/JoostVoskuil/azure-devops-gitleaks) for creating and the Azure marketplace plugin.
+Thanks to [Joost Voskuil](https://github.com/JoostVoskuil/azure-devops-gitleaks) for creating and the Azure marketplace plugin.
 
 Thanks to [Zachary Rice](https://github.com/zricethezav) for creating and maintaining gitleaks.
 
