@@ -1,4 +1,4 @@
-# Gitleaks - Advanace Options
+# Gitleaks - Advance Options
 
 Thanks to [Joost Voskuil](https://github.com/JoostVoskuil/azure-devops-gitleaks) for creating and the Azure marketplace plugin.
 
