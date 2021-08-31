@@ -24,9 +24,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/JoostVoskuil/azure-devops-gitleaks"
+    "url": "https://github.com/yuen07/azure-devops-gitleaks"
   },
-  "author": "Joost Voskuil (joost@foxhole.nl)",
+  "author": "Yuen Ching (yuenching.cheung@cognizant.com)",
   "license": "MIT",
   "dependencies": {
     "azure-pipelines-task-lib": "^3.1.6",
