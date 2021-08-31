@@ -55,7 +55,7 @@ stages:
       name: 'packageStep'
       inputs:
         rootFolder: '$(Build.SourcesDirectory)'
-        outputPath: '$(Build.ArtifactStagingDirectory)/foxholenl-gitleaks.vsix'
+        outputPath: '$(Build.ArtifactStagingDirectory)/yching007-gitleaks.vsix'
         publisherId: 'yching007'
         extensionId: 'Gitleaks'
         extensionName: 'Gitleaks'
