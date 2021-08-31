@@ -1,9 +1,9 @@
 {
     "id": "11bd67d8-bfe7-497b-967d-e800eb673119",
-    "name": "Gitleaks",
-    "friendlyName": "Gitleaks scan",
-    "description": "Scan git repos (or files) for secrets using regex and entropy.",
-    "helpMarkDown": "[More information](https://github.com/JoostVoskuil/azure-devops-gitleaks)",
+    "name": "Gitleaks extension",
+    "friendlyName": "Gitleaks scan extension",
+    "description": "Scan git repos (or files) for secrets using regex and entropy. This is a fork from Joost Voskuil https://github.com/JoostVoskuil/azure-devops-gitleaks",
+    "helpMarkDown": "[More information](https://github.com/yuen07/azure-devops-gitleaks)",
     "category": "Utility",
     "visibility": [
         "Build"
@@ -11,11 +11,11 @@
     "runsOn": [
         "Agent"
     ],
-    "author": "Joost Voskuil (joost@foxhole.nl)",
+    "author": "Yuen Ching Cheung (yuenching.cheung@cognizant.com)",
     "version": {
         "Major": 1,
         "Minor": 0,
-        "Patch": 12
+        "Patch": 1
     },
     "inputs": [
         {
@@ -63,7 +63,7 @@
         {
             "name": "nogit",
             "type": "boolean",
-            "label": "No Git",
+            "label": "No-Git",
             "defaultValue": "false",
             "required": false,
             "helpMarkDown": "Treat git repos as plain directories and scan those files."
